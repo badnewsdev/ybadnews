@@ -58,7 +58,8 @@
           src="https://github-readme-stats.vercel.app/api?username=ybadnews&hide_border=true&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
         <img height="150em"
           src="https://github-readme-streak-stats.herokuapp.com/?user=ybadnews&hide_border=true&theme=midnight-purple&show_icons=true" />
-
+        <img height="150em"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybadnews&layout=compact&count_private=true&hide_border=true&theme=midnight-purple&show_icons=true">
       </a>
     </div>
 </div>
