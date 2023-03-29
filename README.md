@@ -31,8 +31,8 @@
 
 <br />
 
-💻 Estudante de Programação Web FullStack <br />
-🚀 Desenvolvimento Web | Udemy <br />
+💻 Estudante de Programação Web Full-Stack <br />
+🚀 Desenvolvimento Web | Udemy | Kenzie Academy <br />
 ♥  Apaixonado por tecnologia e programação <br />
 
 <hr>
