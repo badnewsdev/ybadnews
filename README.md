@@ -31,7 +31,7 @@
 
 <br />
 
-💻 Estudante de Programação Web Full-Stack <br />
+💻 Desenvolvedor Full Stack na Veman <br />
 🚀 Desenvolvimento Web | Udemy | Kenzie Academy <br />
 ♥  Apaixonado por tecnologia e programação <br />
 
